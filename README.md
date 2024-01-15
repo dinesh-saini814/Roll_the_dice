@@ -13,7 +13,7 @@ To use this application, simply click the "Roll the Dice" button. The dice will 
 
 ### Screenshots:
 
-<p align ="center" >
+<p align ="center" width = "100%" >
   <img src="/assets/Screenshot 2024-01-15.png" alt="App Screenshot" width="350" title="App Screenshot">
   
 </p>
